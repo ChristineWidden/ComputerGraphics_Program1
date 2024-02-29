@@ -1,3 +1,5 @@
+This code is here as a portfolio. If you know what class this is for, please do not use this code.
+
 The result of running the code:
 
 ![](https://github.com/ChristineWidden/ComputerGraphics_Program1/blob/main/rasterizer/target.png)
